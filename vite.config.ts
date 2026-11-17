@@ -17,5 +17,7 @@ export default defineConfig({
       '**/.{idea,git,cache,output,temp}/**',
       'tests/e2e/**',
     ],
+    // Scaffold phase: tolerate zero test files until T02+ add domain tests.
+    passWithNoTests: true,
   },
 });
