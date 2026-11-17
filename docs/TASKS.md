@@ -11,11 +11,11 @@ Statuses: done (PR merged) · doing (branch open, pending review) · remaining �
 
 | ID | Branch | PR | Merge commit | Verified |
 |---|---|---|---|---|
-_(none yet)_
+| T01 | `arch/cricket-manager/t01` | [#1](https://github.com/prateekchaplot/cricket-manager/pull/1) | a9c9b99 | 2026-11-17 — install/format/lint/typecheck/test/build/e2e + CI run 44133179053 green |
 
 ## Doing
 
-- **T01** — branch `arch/cricket-manager/t01` — pending review
+_(empty — next up: T02 on branch `arch/cricket-manager/t02`, pending user go-ahead per `hold-after-every-task`)_
 
 ## Remaining
 
